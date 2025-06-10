@@ -23,6 +23,24 @@ Strength (%)
 💾 Export quantized MIDI files
 
 🎹 Add sample notes for testing
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
 
 
